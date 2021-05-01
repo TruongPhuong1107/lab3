@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Đăng Nhập\Đăng Nhập\bin\Debug\Đăng Nhập.exe.config
+C:\Users\Admin\source\repos\Đăng Nhập\Đăng Nhập\bin\Debug\Đăng Nhập.exe
+C:\Users\Admin\source\repos\Đăng Nhập\Đăng Nhập\bin\Debug\Đăng Nhập.pdb
+C:\Users\Admin\source\repos\Đăng Nhập\Đăng Nhập\obj\Debug\Đăng Nhập.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Đăng Nhập\Đăng Nhập\obj\Debug\Đăng_Nhập.Form1.resources
+C:\Users\Admin\source\repos\Đăng Nhập\Đăng Nhập\obj\Debug\Đăng_Nhập.Properties.Resources.resources
+C:\Users\Admin\source\repos\Đăng Nhập\Đăng Nhập\obj\Debug\Đăng Nhập.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Đăng Nhập\Đăng Nhập\obj\Debug\Đăng Nhập.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Đăng Nhập\Đăng Nhập\obj\Debug\Đăng Nhập.exe
+C:\Users\Admin\source\repos\Đăng Nhập\Đăng Nhập\obj\Debug\Đăng Nhập.pdb
